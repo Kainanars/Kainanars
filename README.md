@@ -1,6 +1,6 @@
 # 💫About Me :
 
-- 🔭 I'm curretly studyng Software Enginner on Jala University
+- 🔭 I'm studying Software Engineering on Jala University
 - 🌱 I'm currently learning Java, Spring
 - 💬 I like math, if you need help, ask me
 - 📫 How to reach me: kainan.ars@hotmail.com
