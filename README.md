@@ -1,10 +1,10 @@
 # 💫About Me :
 
-🔭 I'm curretly studyng Software Enginner on Jala University
-🌱 I'm currently learning Java, Spring
-💬 I like math, if you need help, ask me
-📫 How to reach me: kainan.ars@hotmail.com
-⚡ I love the worlds of Pokémon and Harry Potter
+- 🔭 I'm curretly studyng Software Enginner on Jala University
+- 🌱 I'm currently learning Java, Spring
+- 💬 I like math, if you need help, ask me
+- 📫 How to reach me: kainan.ars@hotmail.com
+- ⚡ I love the worlds of Pokémon and Harry Potter
 
 
 ## 🌐Socials
